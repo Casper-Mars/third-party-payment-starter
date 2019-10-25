@@ -1,0 +1,6 @@
+payment:
+  wechat:
+    api-key:
+    app-secret:
+    gateway-url:
+

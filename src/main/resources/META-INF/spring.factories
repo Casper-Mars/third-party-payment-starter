@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.r.starter.payment.process.AlipayConfigProcess,\
+  org.r.starter.payment.process.WechatConfigProcess
