@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.r.starter</groupId>
     <artifactId>payment</artifactId>
-    <version>1.0.6</version>
+    <version>1.1</version>
     <name>payment</name>
     <description>third paryt payment fro spring boot</description>
 
@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.r.base</groupId>
             <artifactId>payment</artifactId>
-            <version>1.2</version>
+            <version>1.2.6</version>
         </dependency>
     </dependencies>
 
